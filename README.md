@@ -1,87 +1,96 @@
-<!-- Banner -->
+<!-- ===== NEON TECH BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rakesh%20Al%20Yadin&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&text=Rakesh%20Al%20Yadin&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0b0f14,50:1a1f2e,100:2b1055" />
 </p>
 
-<h3 align="center">Frontend & MERN Stack Developer</h3>
+<h2 align="center" style="color:#38bdf8;">⚡ Frontend & MERN Stack Developer</h2>
 
 <p align="center">
-  <b>CSE Student</b> • <b>React Developer</b> • <b>Seeking Internship</b>
+  <b>CSE Student</b> • <b style="color:#22c55e;">Open for Internship</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/shopno8860?label=Followers&style=for-the-badge">
+  <a href="https://github.com/shopno8860">
+    <img src="https://img.shields.io/github/followers/shopno8860?label=Followers&style=for-the-badge&color=38bdf8">
   </a>
   <a href="https://linkedin.com/in/rakesh-al-yadin-30b08226b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-## 👋 About Me
-- 🎓 Final Year **Computer Science & Engineering** Student  
-- 💻 Passionate about **Frontend & MERN Stack Development**
-- 🚀 Love building **modern, responsive & user-friendly web apps**
-- 🔍 Currently looking for **Frontend / MERN Internship**
+## 🧠 About Me
+- 🎓 Final Year **CSE Student**
+- 🎨 UI-focused **Frontend & MERN Developer**
+- ⚡ Love **modern animations & clean layouts**
+- 🔍 Actively seeking **Frontend / MERN Internship**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+### 🌈 Frontend
+![HTML](https://img.shields.io/badge/HTML5-ff6b6b?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-4dabf7?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=flat-square)
+![React](https://img.shields.io/badge/React-38bdf8?style=flat-square)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-22d3ee?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8b5cf6?style=flat-square)
 
 ### ⚙ Backend
-![Node](https://img.shields.io/badge/Node.js-green?style=flat-square)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-22c55e?style=flat-square)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square)
 
-### 🗄 Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square)
-![Git](https://img.shields.io/badge/Git-red?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square)
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-16a34a?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-ef4444?style=flat-square)
 
----
-
-## 📌 Featured Projects
-- 🛒 **MERN E-Commerce Website**
-- 📝 **Quiz Management System**
-- 🌐 **Personal Portfolio Website**
-- 🔐 **JWT Authentication System**
-
-👉 Check my pinned repositories below ⬇️
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-f97316?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-3b82f6?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-f97316?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React Patterns
-- Backend Security (JWT, Auth)
-- Clean Code & Project Structure
+## 🚀 Featured Projects
+
+### 🛒 MERN E-Commerce Platform
+- JWT Authentication
+- Admin Dashboard
+- Stripe-ready structure
+- Modern UI + animations
+
+### 📝 Quiz Management System
+- Accordion-based admin panel
+- Clean UX & validations
+- Responsive design
+
+### 🌐 Personal Portfolio
+- Neon dark UI
+- Smooth scrolling
+- Deployed on GitHub Pages
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shopno8860&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shopno8860&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shopno8860&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shopno8860&theme=radical" />
 </p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: shopno8860@email.com
-- 💼 LinkedIn: https://linkedin.com/in/rakesh-al-yadin-30b08226b/
-- 🌐 Portfolio:  https://shopno8860.github.io/my-portfolio/
-
----
+## 📫 Contact
+- 📧 Email: shopno8860@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/rakesh-al-yadin-30b08226b/  
+- 🌐 Portfolio: https://shopno8860.github.io/my-portfolio/
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:2b1055,100:0b0f14&section=footer" />
 </p>
