@@ -75,6 +75,22 @@
 
 ---
 
+## 🎯 Current Focus
+- 🔥 Building scalable **MERN applications**
+- 📚 Mastering **advanced React patterns** (hooks, context, Redux)
+- 🎨 Enhancing **UI/UX design skills**
+- 🚀 Exploring **cloud deployment** & DevOps
+
+---
+
+## 💡 What I'm Learning
+- Advanced **Next.js** & SSR/SSG
+- **TypeScript** for type-safe applications
+- **REST APIs** & **GraphQL**
+- Performance optimization & SEO
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shopno8860&show_icons=true&theme=radical" />
@@ -84,12 +100,33 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shopno8860&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopno8860&layout=compact&theme=radical" />
+</p>
+
 ---
 
-## 📫 Contact
-- 📧 Email: shopno8860@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/rakesh-al-yadin-30b08226b/  
-- 🌐 Portfolio: https://shopno8860.github.io/my-portfolio/
+## 🏆 Achievements & Certifications
+- ✅ Full-stack **MERN Stack** proficiency
+- ✅ Responsive & modern **UI development**
+- ✅ RESTful **API design** experience
+- ✅ Database design & optimization
+
+---
+
+## 💬 Let's Connect!
+I'm always open to collaborating on exciting projects, discussing tech, or helping with frontend challenges. Feel free to reach out!
+
+- 📧 **Email:** shopno8860@email.com  
+- 💼 **LinkedIn:** [linkedin.com/in/rakesh-al-yadin-30b08226b/](https://linkedin.com/in/rakesh-al-yadin-30b08226b/)  
+- 🌐 **Portfolio:** [shopno8860.github.io/my-portfolio/](https://shopno8860.github.io/my-portfolio/)
+- 🐙 **GitHub:** [@shopno8860](https://github.com/shopno8860)
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, don't forget to star some of my repositories!</b>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:2b1055,100:0b0f14&section=footer" />
